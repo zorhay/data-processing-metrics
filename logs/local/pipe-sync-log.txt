@@ -1,0 +1,15 @@
+Memory usage: 23.4765625 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+Memory usage: 23.80078125 MB
+
+runtime: 12.475849390029907
