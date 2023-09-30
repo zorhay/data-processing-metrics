@@ -24,12 +24,12 @@ if __name__ == "__main__":
     metrics_process = run_memory_metrics(1)
 
     url = 'http://ipv4.download.thinkbroadband.com/50MB.zip'
-    local_url = 'http://localhost:80/1GB.bin'
+    local_url = 'http://192.168.10.43:80/1GB.bin'
     path = get_randomized_path('data', 'test.zip')
 
     start_time = time.time()
-    # download_then_write(local_url, path)
-    download_pipe_write(local_url, path)
+    download_then_write(local_url, path)
+    # download_pipe_write(local_url, path)
     end = time.time() - start_time
     print(end)
 
